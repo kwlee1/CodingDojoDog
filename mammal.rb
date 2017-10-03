@@ -6,7 +6,6 @@ class Mammal
     end 
     def display_health
         puts self.health 
-        return self 
     end 
 end
 
